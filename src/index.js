@@ -15,6 +15,7 @@ root.render(
     <Route path="/" element = {<Home/>}/>
   </Routes>
   <Footer/>
- </BrowserRouter>
-);
+ </BrowserRouter>,
+ 
+ );
 
