@@ -1,0 +1,16 @@
+
+.sliderWrapper{
+    display: flex;
+    justify-content: center;
+
+}
+.sliderWrapper img{
+    width: 100%;
+    height: 100%;
+}
+.sliderWrapper p{
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    font-size: 1.5rem;
+}
